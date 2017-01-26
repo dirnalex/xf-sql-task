@@ -1,3 +1,4 @@
+# xf-sql-task
 To test the scripts you need to have MySQL database installed.
 
 To feed the database with data - run the /scripts/init.sql script.
